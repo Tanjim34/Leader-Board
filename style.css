@@ -1,0 +1,19 @@
+.navbar img{
+    width: 41px;
+    height: 41px;
+}
+body{
+    background-color: #E5E5E5;
+}
+.top-player{
+    background-color: #9F9F9F;
+}
+.player img{
+    width: 56px;
+}
+.blogg img{
+    width: 177px;
+}
+main{
+    width: 870px;
+}
